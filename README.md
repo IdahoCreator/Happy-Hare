@@ -40,7 +40,7 @@ Thank you!
 **[Setup & Calibration](#---setup-and-calibration)**<br>
 **[Important Concepts and Features](#---important-concepts-and-features)**<br>
 \- [1. How to handle errors](#1-how-to-handle-errors)<br>
-\- [2. State and Persistence](#2-state-and-persistence)<br>
+\- [2. State and persistence](#2-state-and-persistence)<br>
 \- [3. Tool to Gate Mapping](#3-tool-to-gate-ttg-mapping)<br>
 \- [4. Synchronized Gear/Extruder](#4-synchronized-gearextruder-motors)<br>
 \- [5. Clog, Runout, EndlessSpool, Flowrate](#5-clogrunout-detection-endlessspool-and-flowrate-monitoring)<br>
@@ -82,7 +82,7 @@ Thank you!
   <li>Supports MMU "bypass" gate functionality</li>
   <li>Ability to manipulate gear and extruder current (TMC) during various operations for reliable operation</li>
   <li>Moonraker update-manager support</li>
-  <li>Complete persitance of state and statistics across restarts. That's right you don't even need to home!</li>
+  <li>Complete persistence of state and statistics across restarts. That's right you don't even need to home!</li>
   <li>Reliable servo operation - no more "kickback" problems</li>
   <li>Cool visualizations of selector and filament position</li>
   <li>Highly configurable speed control that intelligently takes into account the realities of friction and tugs on the spool</li>
